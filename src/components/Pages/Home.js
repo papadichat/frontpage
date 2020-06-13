@@ -19,7 +19,7 @@ export const Home = () => {
                 
                     </div>
                     <div className="search-div">
-                    <div className="div41-search">
+                    <div className="div41-search" onClick={()=>console.log("Collect Sticker Clicked")}>
                         Strategy <button>x</button>
                     </div>
                     
@@ -40,7 +40,7 @@ export const Home = () => {
                     <div className="div41-search" onClick={()=>console.log("Collect Sticker Clicked")}>
                         Focus Area <button>x</button>
                     </div>
-                    <div className="div41-search" id="blue">
+                    <div className="div41-search" id="blue" onClick={()=>console.log("Collect Sticker Clicked")}>
                     Focus Area <button>x</button>
                         
                     </div>

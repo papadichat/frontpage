@@ -109,6 +109,10 @@ img#biglogo{
   font-family: 'Roboto', sans-serif;
 }
 
+.middle-items:hover{
+  color:orangered;
+}
+
 .right-items{
   /* padding:0.7rem,2rem; */
   margin:0.5rem;
@@ -320,7 +324,7 @@ img#biglogo{
 .pricelogo{
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5rem;
+  padding: 1.2rem;
 }
 
 span#free{
@@ -348,7 +352,7 @@ span#rate{
   display: flex;
   justify-content: space-around;
   flex-direction: column;
-  flex:1.8;
+  flex:3;
 }
 
 .names > p{
@@ -397,7 +401,7 @@ p#founder{
   
 }
 .lower2{
-  padding:0.5rem;
+  padding:0.3rem;
 }
 .lower3{
   display:flex;
@@ -440,6 +444,7 @@ opacity: 0.8;
   text-align: center;
   vertical-align: middle;
 }
+
 
 
 

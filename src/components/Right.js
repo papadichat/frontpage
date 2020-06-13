@@ -8,7 +8,7 @@ export const Right = () => {
             <div className="leftmost">
                 <h2>Featured Experts</h2>
             </div>
-            <div className="rightmost">
+            <div className="custom-select">
             <select>
                 <option>Best Match</option>
                 <option>How </option>
